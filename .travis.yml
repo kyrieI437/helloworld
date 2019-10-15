@@ -1,0 +1,2 @@
+language:c
+script:ggc test.c -o test
